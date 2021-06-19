@@ -1,2 +1,2 @@
 # bml-android
-Native and better BML app 
+Native and a better BML application.  
